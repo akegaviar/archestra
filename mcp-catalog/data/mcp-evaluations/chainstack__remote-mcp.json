@@ -1,0 +1,119 @@
+{
+  "name": "chainstack__remote-mcp",
+  "display_name": "Chainstack",
+  "description": "Remote MCP server for Chainstack — deploy and manage blockchain nodes, get RPC endpoints across 70+ protocols, search docs, check platform status, request testnet funds, and check pricing.",
+  "homepage": "https://chainstack.com/mcp/",
+  "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjA0IiBoZWlnaHQ9IjMzIiB2aWV3Qm94PSIwIDAgMjA0IDMzIiBmaWxsPSIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik01MS44ODExIDI4LjQxM0M0NS4xNzE3IDI4LjQxMyA0MS4yNzkzIDIzLjYyNDggNDEuMjc5MyAxNi40NDI1QzQxLjI3OTMgOS4yMjgzMyA0NS40MjUxIDQuNjM5NjUgNTIuMDcwNyA0LjYzOTY1QzU3LjE2NjEgNC42Mzk2NSA2MC44MDUxIDcuNTUwNDcgNjEuNzIyOSAxMi42NzU4SDU3Ljg1NjRDNTcuMTYwMSA5LjU3NTQ3IDU0LjkxMzcgNy45Mjk1MyA1MS45MzkgNy45Mjk1M0M0OC4zIDcuOTI5NTMgNDUuNDE5MSAxMC45MDYyIDQ1LjQxOTEgMTYuNDQyNUM0NS40MTkxIDIyLjAxMjggNDguMjM2MSAyNS4xMTMxIDUxLjkwNzEgMjUuMTEzMUM1NS4wMDc0IDI1LjExMzEgNTcuMjI0IDIzLjQ5OTEgNTcuOTIwMiAyMC4zNjY4SDYxLjc4NjdDNjAuODM3MSAyNS41MDIyIDU3LjE2NjEgMjguNDEzIDUxLjg4MTEgMjguNDEzWiIgZmlsbD0iIzAwN0JGRiIvPgo8cGF0aCBkPSJNNzIuOTk0MyAxMC41OTY5Qzc3LjEwODIgMTAuNTk2OSA3OC43OCAxMy4yNTQ0IDc4Ljc4IDE3LjMwNDRWMjguMDAySDc1LjAxNTNWMTguMjI2MUM3NS4wMTUzIDE1LjkxMzggNzQuNjcyMiAxMy42Njc0IDcxLjc5MTMgMTMuNjY3NEM2OC45MTA0IDEzLjY2NzQgNjcuODMzIDE1Ljg4MTkgNjcuODMzIDE4Ljk1MDNWMjguMDAySDY0LjA3MDNWNS4wNTg1OUg2Ny44MzNWMTMuMzUwMUM2OC44MTY2IDExLjU3NjUgNzAuNjI2MSAxMC41OTY5IDcyLjk5NDMgMTAuNTk2OVoiIGZpbGw9IiMwMDdCRkYiLz4KPHBhdGggZD0iTTk3LjIzMiAxMC45NzYyVjI4LjAwMjJIOTMuNDY3M1YyNS43NTU4QzkyLjQ1MzggMjcuNDMxNiA5MC42NzQyIDI4LjQxMzIgODguNDAzOCAyOC40MTMyQzg0LjEzMDMgMjguNDEzMiA4MC45OTggMjQuOTYzNyA4MC45OTggMTkuNDg5MkM4MC45OTggMTQuMDE0NyA4NC4xMzAzIDEwLjU5NzIgODguNDAzOCAxMC41OTcyQzkwLjY4MjEgMTAuNTk3MiA5Mi40NTM4IDExLjU3NjggOTMuNDY3MyAxMy4yNTQ2VjEwLjk3NjJIOTcuMjMyWk04NC45MjI0IDE5LjQ4OTJDODQuOTIyNCAyMy4wOTYzIDg2LjQ3MjUgMjUuMzQyOCA4OS4yMjU3IDI1LjM0MjhDOTEuNjkzNyAyNS4zNDI4IDkzLjYxNDkgMjMuNDEzNSA5My42MTQ5IDE5LjQ4OTJDOTMuNjE0OSAxNS41NjQ5IDkxLjY5MzcgMTMuNjY3NiA4OS4yMjU3IDEzLjY2NzZDODYuNDcyNSAxMy42Njc2IDg0LjkyMjQgMTUuODgyMSA4NC45MjI0IDE5LjQ4OTJaIiBmaWxsPSIjMDA3QkZGIi8+CjxwYXRoIGQ9Ik0xMTYuMTU2IDEwLjYzMDlDMTIwLjI3IDEwLjYzMDkgMTIxLjk0MiAxMy4yODgzIDEyMS45NDIgMTcuMzM4M1YyOC4wMzE5SDExOC4xODFWMTguMjU2QzExOC4xODEgMTUuOTQ1NyAxMTcuODM0IDEzLjY5OTMgMTE0Ljk1MyAxMy42OTkzQzExMi4wNzIgMTMuNjk5MyAxMTAuOTk3IDE1LjkxMzggMTEwLjk5NyAxOC45ODIzVjI4LjAzMTlIMTA3LjIzMlYxMS4wMDk5SDExMC45OTdWMTMuMzg0MUMxMTEuOTc5IDExLjYxMjQgMTEzLjc4MiAxMC42MzA5IDExNi4xNTYgMTAuNjMwOVoiIGZpbGw9IiMwMDdCRkYiLz4KPHBhdGggZD0iTTEzMS4xODIgMTMuNTA5OEMxMjkuNTM2IDEzLjUwOTggMTI4LjAxOCAxNC4yMzggMTI4LjAxOCAxNS4zNzcyQzEyOC4wMTggMTYuNTE2MyAxMjguODQgMTcuMTE2OSAxMzAuMjk2IDE3LjQwMjJMMTMyLjcwMiAxNy44NzdDMTM2LjE1IDE4LjU0MTMgMTM4Ljc3NyAxOS42MTY3IDEzOC43NzcgMjIuOTQwNUMxMzguNzc3IDI2LjQ4NTcgMTM1LjQyNCAyOC40NDY5IDEzMS41NjEgMjguNDQ2OUMxMjcuMzg2IDI4LjQ0NjkgMTI0LjYgMjYuMDcyOCAxMjQuMTg5IDIyLjg0NDdIMTI3Ljg2QzEyOC4yMDggMjQuNTg2NCAxMjkuNDc0IDI1LjU5OTkgMTMxLjY4OSAyNS41OTk5QzEzMy42NSAyNS41OTk5IDEzNS4xMDcgMjQuNzc2IDEzNS4xMDcgMjMuMzgzNEMxMzUuMTA3IDIxLjk5MDggMTMzLjg0MiAyMS4zNTg0IDEzMi4xNjQgMjEuMDQxMkwxMjkuNiAyMC41MzY0QzEyNi43MjEgMTkuOTY1OCAxMjQuNDczIDE4LjY2OSAxMjQuNDczIDE1LjU2NjdDMTI0LjQ3MyAxMi41NjAxIDEyNy43MDEgMTAuNjMwOSAxMzEuNDA0IDEwLjYzMDlDMTM0LjcyNyAxMC42MzA5IDEzNy43NjQgMTIuMjQ0OSAxMzguNDYgMTUuNjYyNEgxMzQuOTE3QzEzNC41MDYgMTQuMTEyMyAxMzMuMDgyIDEzLjUwOTggMTMxLjE4MiAxMy41MDk4WiIgZmlsbD0iIzAwN0JGRiIvPgo8cGF0aCBkPSJNMTQ2LjEzNiA2LjUxNzA5VjExLjAxSDE0OS41NTRWMTMuNzMxM0gxNDYuMTM2VjIzLjAwNDRDMTQ2LjEzNiAyNC43NDQxIDE0Ni41NDcgMjUuMTU1MSAxNDguMTYxIDI1LjE1NTFIMTQ5LjUyMlYyOC4wMzJIMTQ2LjcyOUMxNDMuMDkgMjguMDMyIDE0Mi4zNjIgMjcuMDUwNCAxNDIuMzYyIDIzLjU2OVYxMy43MzEzSDEzOS44MzhWMTEuMDFIMTQyLjM3VjYuNTE3MDlIMTQ2LjEzNloiIGZpbGw9IiMwMDdCRkYiLz4KPHBhdGggZD0iTTE2Ny42ODMgMTEuMDA5OVYyOC4wMzE5SDE2My45MTZWMjUuNzg5NUMxNjIuOTA1IDI3LjQ2NTMgMTYxLjEyMyAyOC40NDY5IDE1OC44NTMgMjguNDQ2OUMxNTQuNTgyIDI4LjQ0NjkgMTUxLjQ0NyAyNC45OTc0IDE1MS40NDcgMTkuNTIyOUMxNTEuNDQ3IDE0LjA0ODQgMTU0LjU4MiAxMC42MzA5IDE1OC44NTMgMTAuNjMwOUMxNjEuMTMxIDEwLjYzMDkgMTYyLjkwNSAxMS42MTI0IDE2My45MTYgMTMuMjg4M1YxMS4wMDk5SDE2Ny42ODNaTTE1NS4zNzQgMTkuNTIyOUMxNTUuMzc0IDIzLjEzIDE1Ni45MjQgMjUuMzc2NSAxNTkuNjc3IDI1LjM3NjVDMTYyLjE0NSAyNS4zNzY1IDE2NC4wNjYgMjMuNDQ3MiAxNjQuMDY2IDE5LjUyMjlDMTY0LjA2NiAxNS41OTg2IDE2Mi4xMzcgMTMuNzAxMyAxNTkuNjc3IDEzLjcwMTNDMTU2LjkyNCAxMy43MDEzIDE1NS4zNzQgMTUuOTE1OCAxNTUuMzc0IDE5LjUyMjlaIiBmaWxsPSIjMDA3QkZGIi8+CjxwYXRoIGQ9Ik0xODIuNDYgMTYuODMzN0MxODIuMTUxIDE1LjAyODEgMTgwLjU1NSAxMy43NjMzIDE3OC41MDQgMTMuNzYzM0MxNzYuMTY0IDEzLjc2MzMgMTc0LjA0MyAxNS41MDUgMTc0LjA0MyAxOS41MjNDMTc0LjA0MyAyMy41NzMxIDE3Ni4xOTMgMjUuMzA4OCAxNzguNDEgMjUuMzA4OEMxODAuMjQzIDI1LjMwODggMTgyLjExMSAyNC40ODQ4IDE4Mi41ODYgMjIuMjA2NEgxODYuMjU3QzE4NS40OTkgMjYuMTk2NiAxODEuOTg1IDI4LjQ0MSAxNzguMzQ2IDI4LjQ0MUMxNzMuNDA4IDI4LjQ0MSAxNzAuMTUgMjQuNjEyNSAxNzAuMTUgMTkuNTQ5QzE3MC4xNSAxNC40ODU1IDE3My40NCAxMC42MjUgMTc4LjUwNCAxMC42MjVDMTgyLjIwNyAxMC42MjUgMTg1LjQ5OSAxMy4wMTkxIDE4Ni4xMzEgMTYuODI3N0wxODIuNDYgMTYuODMzN1oiIGZpbGw9IiMwMDdCRkYiLz4KPHBhdGggZD0iTTE5Mi4yNDUgMTcuODQ1NEwxOTguNTQyIDExLjAxMDNIMjAzLjA2N0wxOTYuNTQ5IDE4LjAwNUwyMDMuNzk1IDI4LjAzMjNIMTk5LjQwNkwxOTQuMDU5IDIwLjY1MDVMMTkyLjI2MyAyMi41ODE3VjI4LjAzMjNIMTg4LjQ3OVY1LjA4ODg3SDE5Mi4yNDVWMTcuODQ1NFoiIGZpbGw9IiMwMDdCRkYiLz4KPHBhdGggZD0iTTEwNC4xODMgMjguMDAyMUgxMDAuNDE2VjEwLjk3NjFIMTA0LjE4M1YyOC4wMDIxWiIgZmlsbD0iIzAwN0JGRiIvPgo8cGF0aCBkPSJNMTAyLjMgOS43NzEzMUMxMDMuNzE1IDkuNzcxMzEgMTA0Ljg2MiA4LjYyNDQxIDEwNC44NjIgNy4yMDk2M0MxMDQuODYyIDUuNzk0ODUgMTAzLjcxNSA0LjY0Nzk1IDEwMi4zIDQuNjQ3OTVDMTAwLjg4NSA0LjY0Nzk1IDk5LjczODMgNS43OTQ4NSA5OS43MzgzIDcuMjA5NjNDOTkuNzM4MyA4LjYyNDQxIDEwMC44ODUgOS43NzEzMSAxMDIuMyA5Ljc3MTMxWiIgZmlsbD0iIzAwN0JGRiIvPgo8cGF0aCBkPSJNMjIuOTIzNSAyMy40MjM1SDcuMzE3OTVDNi43NzQyNCAyMy40MjQ1IDYuMjM1NjUgMjMuMzE4MyA1LjczMzA3IDIzLjExMDhDNS4yMzA0OSAyMi45MDM0IDQuNzczOCAyMi41OTg4IDQuMzg5MTggMjIuMjE0NEwxLjE5NzA2IDE5LjAyMjNDMC40MjgzMDMgMTguMjQ3MiAtMC4wMDIxMDg5OSAxNy4xOTkyIDguMzM1NGUtMDYgMTYuMTA3NVY3LjgxNzk1Qy0wLjAwMTA4Mzc3IDcuMjc0MjQgMC4xMDUxNDkgNi43MzU2NSAwLjMxMjYxOCA2LjIzMzA3QzAuNTIwMDg2IDUuNzMwNDkgMC44MjQ3MSA1LjI3MzggMS4yMDkwMyA0Ljg4OTE4TDQuNDAxMTUgMS42OTcwNkM1LjE3Njk3IDAuOTI4MTg1IDYuMjI1NjggMC40OTc3OTkgNy4zMTc5NSAwLjUwMDAwOEgyMi45MjM1VjUuMDg4NjlIOC43MTI1MUM3LjYxOTEzIDUuMDg5NzQgNi41NzA4MyA1LjUyNDU2IDUuNzk3NyA2LjI5NzdDNS4wMjQ1NiA3LjA3MDgzIDQuNTg5NzQgOC4xMTkxMyA0LjU4ODY5IDkuMjEyNTFWMTQuNzExQzQuNTg4NjkgMTUuODA1IDUuMDIzMDMgMTYuODU0MyA1Ljc5NjI5IDE3LjYyODNDNi41Njk1NCAxOC40MDIzIDcuNjE4NDQgMTguODM3NyA4LjcxMjUxIDE4LjgzODhIMjIuOTIzNVYyMy40MjM1WiIgZmlsbD0iIzAwN0JGRiIvPgo8cGF0aCBkPSJNOS4xNzc3MyA5LjY3NzI1SDI0Ljc4NTJDMjUuODc1NSA5LjY3NjE5IDI2LjkyMTkgMTAuMTA2NSAyNy42OTYxIDEwLjg3NDNMMzAuODg4MiAxNC4wNjY0QzMxLjY2MjMgMTQuODQwNSAzMi4wOTcyIDE1Ljg5MDUgMzIuMDk3MiAxNi45ODUyVjI1LjI3NDhDMzIuMDk3MiAyNi4zNjk1IDMxLjY2MjMgMjcuNDE5NSAzMC44ODgyIDI4LjE5MzZMMjcuNjk2MSAzMS4zODU3QzI2LjkyMTkgMzIuMTU5OCAyNS44NzIgMzIuNTk0NyAyNC43NzczIDMyLjU5NDdIOS4xNzc3M1YyOC4wMDZIMjMuMzg4N0MyNC40ODM0IDI4LjAwNiAyNS41MzM0IDI3LjU3MTEgMjYuMzA3NSAyNi43OTdDMjcuMDgxNiAyNi4wMjI5IDI3LjUxNjUgMjQuOTczIDI3LjUxNjUgMjMuODc4MlYxOC4zODE4QzI3LjUxNjUgMTcuMjg3IDI3LjA4MTYgMTYuMjM3MSAyNi4zMDc1IDE1LjQ2M0MyNS41MzM0IDE0LjY4ODkgMjQuNDgzNCAxNC4yNTQgMjMuMzg4NyAxNC4yNTRIOS4xNzc3M1Y5LjY3NzI1WiIgZmlsbD0iIzAwN0JGRiIvPgo8L3N2Zz4K",
+  "instructions": "Connect with **no configuration** to use the public tools. Node/project management and the testnet faucet require a Chainstack API key.\n\n## Authentication\n\nFive tools work with **no auth**: `search_docs`, `get_doc_page`, `get_platform_status`, `get_chainstack_pricing`, `contact_chainstack`.\n\nThe node/project lifecycle tools and `request_testnet_funds` require a **Chainstack API key** (no OAuth). Create one at https://console.chainstack.com/user/settings/api-keys and send it as an `Authorization: Bearer <key>` header.\n\nConnection URL: `https://mcp.chainstack.com/mcp` (streamable HTTP).\n\nDocs: https://docs.chainstack.com/docs/chainstack-mcp-server",
+  "tools": [
+    {
+      "name": "search_docs",
+      "description": "Search Chainstack docs — RPC methods, node infrastructure, Web3 APIs, deployment guides, and code examples."
+    },
+    {
+      "name": "get_doc_page",
+      "description": "Get the full content of a Chainstack documentation page."
+    },
+    {
+      "name": "get_platform_status",
+      "description": "Check platform status, active incidents, and maintenances."
+    },
+    {
+      "name": "get_chainstack_pricing",
+      "description": "Fetch Chainstack's public pricing as a normalized snapshot."
+    },
+    {
+      "name": "contact_chainstack",
+      "description": "Send a message to Chainstack's sales and support team."
+    },
+    {
+      "name": "get_organization",
+      "description": "Get your organization's name and ID."
+    },
+    {
+      "name": "get_deployment_options",
+      "description": "List blockchain / cloud / network combinations available for node deployment."
+    },
+    {
+      "name": "list_projects",
+      "description": "List all projects (containers for nodes)."
+    },
+    {
+      "name": "get_project",
+      "description": "Get project details."
+    },
+    {
+      "name": "create_project",
+      "description": "Create a new project."
+    },
+    {
+      "name": "update_project",
+      "description": "Update a project's name or description."
+    },
+    {
+      "name": "delete_project",
+      "description": "Delete a project (irreversible)."
+    },
+    {
+      "name": "list_nodes",
+      "description": "List nodes with status and connection endpoints."
+    },
+    {
+      "name": "get_node",
+      "description": "Get a node's full details including RPC endpoints and cloud info."
+    },
+    {
+      "name": "create_node",
+      "description": "Deploy a new blockchain node."
+    },
+    {
+      "name": "update_node",
+      "description": "Rename a node."
+    },
+    {
+      "name": "delete_node",
+      "description": "Delete a node (irreversible)."
+    },
+    {
+      "name": "request_testnet_funds",
+      "description": "Request testnet funds from the Chainstack multichain faucet."
+    }
+  ],
+  "prompts": [],
+  "keywords": [
+    "chainstack",
+    "blockchain",
+    "rpc",
+    "node deployment",
+    "ethereum",
+    "solana",
+    "base",
+    "bnb",
+    "polygon",
+    "arbitrum",
+    "web3",
+    "testnet faucet",
+    "infrastructure"
+  ],
+  "user_config": {},
+  "readme": null,
+  "category": "Development",
+  "archestra_config": {
+    "client_config_permutations": null,
+    "oauth": {
+      "provider": null,
+      "required": false
+    },
+    "works_in_archestra": true
+  },
+  "author": {
+    "name": "chainstacklabs"
+  },
+  "server": {
+    "type": "remote",
+    "url": "https://mcp.chainstack.com/mcp",
+    "docs_url": "https://docs.chainstack.com/docs/chainstack-mcp-server"
+  },
+  "github_info": null,
+  "programming_language": null
+}
